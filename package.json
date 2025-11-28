@@ -1,17 +1,17 @@
 {
-  "name": "pkg-placeholder",
+  "name": "@dy-kit/qrcodegen",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.8.0",
   "packageManager": "pnpm@10.6.2",
-  "description": "_description_",
+  "description": "qrcodegen esm 打包，基于 https://www.nayuki.io/page/qr-code-generator-library",
   "author": "XiaDeYu <1579883916@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/Xdy1579883916/pkg-placeholder#readme",
+  "homepage": "https://github.com/Xdy1579883916/qrcodegen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xdy1579883916/pkg-placeholder.git"
+    "url": "git+https://github.com/Xdy1579883916/qrcodegen.git"
   },
-  "bugs": "https://github.com/Xdy1579883916/pkg-placeholder/issues",
+  "bugs": "https://github.com/Xdy1579883916/qrcodegen/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
