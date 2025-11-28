@@ -20,4 +20,4 @@ qrcodegen esm 打包，基于 https://github.com/nayuki/QR-Code-generator
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@dy-kit/qrcodegen?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=@dy-kit/qrcodegen
 [license-src]: https://img.shields.io/github/license/Xdy1579883916/qrcodegen.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/Xdy1579883916/qrcodegen/blob/main/LICENSE
+[license-href]: https://github.com/Xdy1579883916/qrcodegen/blob/mine/LICENSE.md
